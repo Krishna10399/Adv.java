@@ -1,0 +1,14 @@
+open eclipse
+
+click on -> Help -> Install new softwares -> serach Hibernate -> install and wait
+
+create meaven project
+
+click on file and go to new -> Other -> Hibernate -> Hibernate.cfg file
+
+Then go to pom.xml -> Add Dependicies 
+
+Then Do The Coadings 
+
+Run -> Main.java -> Run as Java Application
+
